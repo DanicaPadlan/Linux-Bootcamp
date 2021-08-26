@@ -1,0 +1,43 @@
+/u/danica13/cs429:
+total 8
+drwx------ 5 danica13 tmpclass 4096 Aug 26 16:29 writing
+drwx------ 7 danica13 tmpclass 4096 Aug 26 16:28 projects
+
+/u/danica13/cs429/writing:
+total 12
+drwx------ 2 danica13 tmpclass 4096 Aug 26 16:29 task3
+drwx------ 2 danica13 tmpclass 4096 Aug 26 16:29 task2
+drwx------ 2 danica13 tmpclass 4096 Aug 26 16:29 task1
+
+/u/danica13/cs429/writing/task3:
+total 0
+
+/u/danica13/cs429/writing/task2:
+total 0
+
+/u/danica13/cs429/writing/task1:
+total 0
+
+/u/danica13/cs429/projects:
+total 20
+drwx------ 2 danica13 tmpclass 4096 Aug 26 16:28 proj5
+drwx------ 2 danica13 tmpclass 4096 Aug 26 16:28 proj4
+drwx------ 2 danica13 tmpclass 4096 Aug 26 16:28 proj3
+drwx------ 2 danica13 tmpclass 4096 Aug 26 16:28 proj2
+drwx------ 3 danica13 tmpclass 4096 Aug 26 17:04 proj1
+
+/u/danica13/cs429/projects/proj5:
+total 0
+
+/u/danica13/cs429/projects/proj4:
+total 0
+
+/u/danica13/cs429/projects/proj3:
+total 0
+
+/u/danica13/cs429/projects/proj2:
+total 0
+
+/u/danica13/cs429/projects/proj1:
+total 0
+-rw------- 1 danica13 tmpclass 0 Aug 26 17:04 partA.txt
